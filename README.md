@@ -14,3 +14,8 @@ then open Android Stdio and click `Import project`
 ## demo download
 
 [jarbob.apk](http://jarbob.com/downloads/apk/jarbob.apk)
+
+
+## finally
+
+Thanks to [@FinestWebView](https://github.com/TheFinestArtist/FinestWebView-Android)
