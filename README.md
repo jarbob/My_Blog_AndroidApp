@@ -1,10 +1,7 @@
 #my blog Android app
-## video
+## screen gif
 
-<video id="video" controls="" preload="none" poster="./art/splash.png" width="320" height="480">
-      <source id="mp4" src="./art/myvideo.mp4" type="video/mp4">
-</video>
-
+<img src="./art/mygif.gif"></img>
 
 ## useage
 
